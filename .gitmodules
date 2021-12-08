@@ -1,0 +1,3 @@
+[submodule "reaction-timer"]
+	path = reaction-timer
+	url = https://github.com/ajtruex/reaction-timer.git
