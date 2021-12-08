@@ -1,3 +1,6 @@
 [submodule "reaction-timer"]
 	path = reaction-timer
 	url = https://github.com/ajtruex/reaction-timer.git
+[submodule "modal-project"]
+	path = modal-project
+	url = https://github.com/ajtruex/modal-project.git
